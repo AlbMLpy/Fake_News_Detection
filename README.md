@@ -7,3 +7,8 @@ https://nbviewer.org/github/AlbMLpy/Fake_News_Detection/blob/master/Rosnet.ipynb
 
 It is about data preparation:
 https://nbviewer.org/github/AlbMLpy/Fake_News_Detection/blob/master/data_preparation.ipynb
+
+
+References:
+"DeepFakE: improving fake news detection using tensor decomposition-based deep neural network":
+https://link.springer.com/article/10.1007/s11227-020-03294-y
